@@ -17,7 +17,7 @@
 
 ***Description: This dataset contains information on Tig welding of stainless steel 304.***
 
-***Source: Kaggle - Tig Stainless Steel 304 Dataset***
+***Source: [Kaggle - Tig Stainless Steel 304 Dataset](https://www.kaggle.com/datasets/danielbacioiu/tig-stainless-steel-304)***
 
 ***Author: Daniel Bacioiu***
 
