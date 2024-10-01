@@ -34,6 +34,9 @@ Captured a dataset of high-quality HDR images of stainless steel welds under con
 Labeled the images according to weld quality (good/defective) and specific defect types (burn-through, contamination, lack of fusion, etc.).
 Applied image pre-processing techniques like normalization and random transformations (cropping, flipping, rotation) to enhance data diversity and improve model generalizability.
 
+![image](https://github.com/user-attachments/assets/5b30e2e5-bcca-48c8-b977-9a96e072ea94)
+
+
 #### Transfer Learning with VGG16:
 Used a pre-trained VGG16 model, known for its strong image feature extraction capabilities.
 Froze the initial layers of VGG16 to preserve its pre-trained weights and prevent overfitting.
