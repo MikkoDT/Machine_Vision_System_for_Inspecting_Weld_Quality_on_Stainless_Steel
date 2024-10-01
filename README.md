@@ -1,5 +1,5 @@
-# Machine_Vision_System_for_Inspecting_Weld_Quality_on_Stainless_Steel_using_HDR_Cameras_and_Deep_Learning
-## ML_and_NN_1stProject
+# Machine Vision System for Inspecting Weld Quality on Stainless Steel using HDR Cameras and Deep Learning
+## ML and NN 1st Project
 
 ### Notebooks
 ***Title: TIG Welding Defects Classification Notebooks***
