@@ -6,7 +6,7 @@
 
 ***Description: This section contains Jupyter notebooks for TIG welding defects classification.***
 
-***Repository: GitHub - TIG Welding Defects Classification Notebooks***
+***Repository: [GitHub - TIG Welding Defects Classification Notebooks](https://github.com/SamuelK87/Machine-vision-based-defect-detection-in-welding-process)***
 
 ***Author: haarshit20***
 
