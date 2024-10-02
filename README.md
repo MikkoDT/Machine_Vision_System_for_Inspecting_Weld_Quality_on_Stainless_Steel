@@ -26,7 +26,7 @@
 ***Accessed Date: January 2, 2024***
 
 ## Summary of Method:
-This paper presents the development and evaluation of a machine vision system with **Python in Jupyter Notebook** for inspecting weld quality on stainless steel using HDR cameras and deep learning. The system employed a transfer learning approach, leveraging a pre-trained VGG16 convolutional neural network (CNN) for feature extraction and adapting it to the specific task of weld defect classification.
+This project the development and evaluation of a machine vision system with **Python in Jupyter Notebook** for inspecting weld quality on stainless steel using HDR cameras and deep learning. The system employed a transfer learning approach, leveraging a pre-trained VGG16 convolutional neural network (CNN) for feature extraction and adapting it to the specific task of weld defect classification.
 
 ### Key Steps:
 #### Data Acquisition and Preprocessing:
